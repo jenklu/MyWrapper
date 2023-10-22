@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "openai": "^4.12.4"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "dotenv": "^16.3.1",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "build": "yarn tsc",
+    "start": "yarn build && node build/openai-test.js"
+  }
+}
