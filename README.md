@@ -8,8 +8,11 @@ But it's more of a way for me to learn about the OpenAI API than a serious idea.
 simply acts as a CLI inteface to GPT-3.5, allowing for back and forth context-ful conversation right
 from your terminal, like:
 > How tall is Barack Obama?
+> 
 > Barack Obama is 6 feet 1 inch (185 cm) tall.
+> 
 > How about Michelle?
+>
 > Michelle Obama is 5 feet 11 inches (180 cm) tall.
 
 
